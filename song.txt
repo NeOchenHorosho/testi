@@ -10,3 +10,5 @@ neveroyatno
 ne fast forward
 
 neveroyatno commit
+
+eche neveroyatno commit
