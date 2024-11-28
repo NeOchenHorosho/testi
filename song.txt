@@ -12,3 +12,5 @@ ne fast forward
 neveroyatno commit
 
 main commit eche
+eche neveroyatno commit
+
